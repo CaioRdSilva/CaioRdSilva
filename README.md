@@ -27,13 +27,12 @@
 </div>
 <br>
 
-## **DevOps Tools**
+## **DevOps and Development Tools**
 <div>
 <img align="center" height="25" width="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg">
 <img align="center" height="25" width="30" alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg"> |
 <img align="center" height="25" width="30" alt="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg">
 <img align="center" height="25" width="30" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/figma/figma-original.svg" >
-<img align="center" height="25" width="30" alt="Jira" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jira/jira-original.svg" >
 <img align="center" height="25" width="30" alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/trello/trello-plain.svg" >
 </div>
 <br>
