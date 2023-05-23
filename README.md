@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  ## **Language and Data that I've been using **
+  ## **Language and Data that I've been using**
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" height="30" width="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg">
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-##**DevOps Tools**
+## **DevOps Tools**
 <div>
 <img align="center" height="25" width="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg">
 <img align="center" height="25" width="30" alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg"> |
