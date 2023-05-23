@@ -7,7 +7,7 @@
   <br>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-rodrigues-silva-42ba61209?trk=people-guest_people_search-card)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caiodrs.silva@gmail.com)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:caiodrs.silva@gmail.com)[mailto:caiodrs.silva@gmail.com]
   
 </div>
 
