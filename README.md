@@ -4,6 +4,11 @@
  <img align="rigth" height="180" src="https://github-readme-stats.vercel.app/api?username=CaioRdSilva&show_icons=true&theme=aura"/>
  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRdSilva&hide=css&layout=compact&theme=aura"/>
   
+  <br>
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hesdras-morais](https://br.linkedin.com/in/caio-rodrigues-silva-42ba61209?trk=people-guest_people_search-card))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hesdras98@gmail.com)](mailto:caiodrs.silva@gmail.com)
+  
 </div>
 
 <div align="center">
