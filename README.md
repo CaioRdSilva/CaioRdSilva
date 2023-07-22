@@ -38,3 +38,4 @@
 <br>
 
 ![Snake animation](https://github.com/CaioRdSilva/CaioRdSilva/blob/output/github-contribution-grid-snake.svg )
+![snake gif](https://github.com/CaioRdSilva/CaioRdSilva/blob/output/github-contribution-grid-snake.svg)
