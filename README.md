@@ -23,6 +23,7 @@
 <img align="center" height="30" width="40" alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg">
 <img align="center" height="30" width="40" alt="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original.svg" />
 <img align="center" height="30" width="40" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nodejs/nodejs-original.svg" />
+<img align="center" height="30" width="40" alt="Nest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
 <img align="center" height="30" width="40" alt="Next" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 </div>
 <br>
